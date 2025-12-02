@@ -1,1 +1,18 @@
-# -
+# -<section class="projects">
+    <h2>My Projects</h2>
+
+    <div class="project">
+        <h3>Project 1: Portfolio Website</h3>
+        <p>Personal portfolio site with my skills, projects and contact form.</p>
+    </div>
+
+    <div class="project">
+        <h3>Project 2: Coffee Shop Landing Page</h3>
+        <p>Landing page for a local coffee shop with menu and online order button.</p>
+    </div>
+
+    <div class="project">
+        <h3>Project 3: Travel Blog</h3>
+        <p>Simple blog layout for sharing travel stories and photos.</p>
+    </div>
+</section>
